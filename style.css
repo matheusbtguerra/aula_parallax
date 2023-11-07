@@ -7,6 +7,7 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     word-wrap: break-word;
     overflow-wrap: break-word;
+     background-color: #8a6b3f;
 }
 
 h1, h2{
